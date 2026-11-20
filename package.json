@@ -1,0 +1,20 @@
+{
+  "name": "youtube-shorts-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YouTube Shorts Scraper: Scrape public YouTube Shorts from one or more channels: titles, view and like counts, comment counts, durations, publish dates, hashtags, and captions when YouTube provides the",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "youtube"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
